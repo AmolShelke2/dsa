@@ -12,3 +12,19 @@ You have to find the sum of all even numbers that fall between two numbersfrom m
  sum of even = 14 + 16 + 18 = 48
 
 */
+
+// solution
+
+function evenCollection(max, min) {
+  let sum = 0
+
+  for (let i = min; i <= max; i++) {
+    if (i % 2 == 0) {
+      sum = sum + i
+    }
+
+    console.log(sum)
+  }
+}
+
+evenCollection(19, 14)
