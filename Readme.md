@@ -8,4 +8,5 @@ This repository contains basic JavaScript DSA questions
 - CheckEvenSum program
 
   ### Array
-  - Find missing number program.
+  - Find the missing number program.
+  - Duplicate numbers from an array.
