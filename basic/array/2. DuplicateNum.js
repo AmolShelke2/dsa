@@ -16,3 +16,5 @@ function findDuplicate(arr) {
 }
 
 console.log(findDuplicate(duplicateArray));
+
+// demo
