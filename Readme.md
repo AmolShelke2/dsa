@@ -9,4 +9,4 @@ This repository contains basic JavaScript DSA questions
 
   ### Array
   - Find the missing number program.
-  - Duplicate numbers from an array.
+  - Duplicate numbers from an array. 
